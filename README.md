@@ -2,6 +2,6 @@
 
 ## Correlation & Consine Similarity
 
-Pearson correlation = $r = \dfrac{(X - X_mean) \cdot (Y - Y_mean)}{ ||X-X_mean|| \cdot ||Y-Y_mean|| } $
+Pearson correlation = $r = \dfrac{(X - X_{mean}) \cdot (Y - Y_{mean})}{ ||X-X_{mean}|| \cdot ||Y-Y_{mean}|| } $
 
 
